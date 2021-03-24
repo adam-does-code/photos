@@ -5,13 +5,3 @@ theme = "hugo-theme-console"
 
 [params]
     # Meta
-    no_exif = false
-    title = "Photo Grid - Grid Gallery"
-    subtitle = "A customized theme for showing your photography work with minimal effort and multiple customization options. Click on each image to find out more about this theme"
-    author = "Adaam"
-    description = "Photo Grid - Grid Gallery For Hugo"
-    keywords = "Hugo, Hugo theme, grid theme, gallery"
-
-    # Body background and  text color
-    bodybgcolor = "#3d3d3d"
-    bodytextcolor = "#f2f2f2"
