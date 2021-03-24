@@ -1,7 +1,7 @@
 baseURL = "photos.ad-am.dev"
 languageCode = "en-us"
 title = "Adam's Photos!"
-theme = "photo-grid"
+theme = "hugo-theme-console"
 
 [params]
     # Meta
